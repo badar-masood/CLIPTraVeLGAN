@@ -56,10 +56,6 @@ The notebook explores the CLIPTraVeLGAN approach for unpaired image-to-image tra
 
 ## Run the Project
 
-The complete implementation is available on Kaggle:
-
-**[Open CLIPTraVeLGAN – Monet Article Implementation](https://www.kaggle.com/code/unfriendlyai/cliptravelgan-monet-article-implementation/notebook)**
-
 To explore the project:
 
 1. Open the Kaggle notebook.
